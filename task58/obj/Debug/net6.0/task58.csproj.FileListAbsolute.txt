@@ -1,0 +1,15 @@
+C:\Education\Seminar8\task58\obj\Debug\net6.0\task58.csproj.AssemblyReference.cache
+C:\Education\Seminar8\task58\obj\Debug\net6.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Seminar8\task58\obj\Debug\net6.0\task58.AssemblyInfoInputs.cache
+C:\Education\Seminar8\task58\obj\Debug\net6.0\task58.AssemblyInfo.cs
+C:\Education\Seminar8\task58\obj\Debug\net6.0\task58.csproj.CoreCompileInputs.cache
+C:\Education\Seminar8\task58\bin\Debug\net6.0\task58.exe
+C:\Education\Seminar8\task58\bin\Debug\net6.0\task58.deps.json
+C:\Education\Seminar8\task58\bin\Debug\net6.0\task58.runtimeconfig.json
+C:\Education\Seminar8\task58\bin\Debug\net6.0\task58.dll
+C:\Education\Seminar8\task58\bin\Debug\net6.0\task58.pdb
+C:\Education\Seminar8\task58\obj\Debug\net6.0\task58.dll
+C:\Education\Seminar8\task58\obj\Debug\net6.0\refint\task58.dll
+C:\Education\Seminar8\task58\obj\Debug\net6.0\task58.pdb
+C:\Education\Seminar8\task58\obj\Debug\net6.0\task58.genruntimeconfig.cache
+C:\Education\Seminar8\task58\obj\Debug\net6.0\ref\task58.dll
